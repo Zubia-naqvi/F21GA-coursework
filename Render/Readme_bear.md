@@ -62,3 +62,4 @@ Render Engine: Cycles
 
 Light Paths, Max Bounces total: 25
 
+Set two light beyond the object.
